@@ -26,3 +26,39 @@
 . npx parcel index.html
 
 . add scripts
+
+
+# high level design
+# Header
+- Logo
+- search-bar
+- nav-links
+    - Home
+    - About-us
+    - Contact-us
+    - Cart
+
+    # Main Section
+    - Container
+    - Restaurant-Card
+            - Img
+            - Title
+            - Location
+            - price, rating
+
+    - Restaurant-Card
+            - Img
+            - Title
+            - Location
+            - price, rating
+
+    - Restaurant-Card
+            - Img
+            - Title
+            - Location
+            - price, rating
+# Footer
+. Address
+. contact
+. External links
+. npxCopyright
