@@ -1,0 +1,28 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sidra-tarannum/React.project#readme",
+  "bugs": {
+    "url": "https://github.com/Sidra-tarannum/React.project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidra-tarannum/React.project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"npx parcel index.html --no-cache",
+    "build": "npx parcel build index.html"
+    
+  },
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
